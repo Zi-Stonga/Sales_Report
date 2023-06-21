@@ -5,7 +5,7 @@ This is a sales report I worked on in Excel. I found data on Kaggle to da an ana
 
 
 ### Data Preview
-![alt text](https://github.com/Zi-Stonga/Sales_Report/blob/main/Images/Sales5.JPG)
+![alt text](https://github.com/Zi-Stonga/Sales_Report/blob/main/Images/Sales5.png)
 
 
 ### All Sales
@@ -14,14 +14,14 @@ This is a sales report I worked on in Excel. I found data on Kaggle to da an ana
 
 ### Sales and Comission
 
-![alt text](https://github.com/Zi-Stonga/Sales_Report/blob/main/Images/Sales2.JPG)
+![alt text](https://github.com/Zi-Stonga/Sales_Report/blob/main/Images/Sales2.png)
 
 
 
 ## Creating Visualizations
 
 
-![alt text](https://github.com/Zi-Stonga/Sales_Report/blob/main/Images/Sales4.JPG)
+![alt text](https://github.com/Zi-Stonga/Sales_Report/blob/main/Images/Sales4.png)
 
 
 
