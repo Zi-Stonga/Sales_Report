@@ -12,7 +12,7 @@ This is a sales report I worked on in Excel. I found data on Kaggle to da an ana
 ![alt text](https://github.com/Zi-Stonga/Sales_Report/blob/main/Images/Sales1.JPG)
 
 
-### Sales and Comission
+### Sales and Commission
 
 ![alt text](https://github.com/Zi-Stonga/Sales_Report/blob/main/Images/Sales2.png)
 
